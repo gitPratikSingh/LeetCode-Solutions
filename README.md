@@ -5,44 +5,44 @@ My Leetcode solutions
 # [LeetCode](https://leetcode.com/problemset/algorithms/) ![Language](https://img.shields.io/badge/language-Python%20%2F%20C++%2011-orange.svg) [![License](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE.md) [![SayThanks](https://img.shields.io/badge/say-thanks-ff69b4.svg)](https://saythanks.io/to/gitPratikSingh)
 
 The number of LeetCode questions is increasing every week.
-For more questions and solutions, you can see my [LeetCode-Solutions](https://github.com/gitPratikzSingh/LeetCode-Solutions) repository. I'll keep updating for full summary and better solutions. Stay tuned for updates.
+For more questions and solutions, you can see my [LeetCode-Solutions](https://github.com/gitPratikSingh/LeetCode-Solutions) repository. I'll keep updating for full summary and better solutions. Stay tuned for updates.
 
 
 ## Algorithms
 
-* [Bit Manipulation](https://github.com/gitPratikzSingh/LeetCode-Solutions#bit-manipulation)
-* [Array](https://github.com/gitPratikzSingh/LeetCode-Solutions#array)
-* [String](https://github.com/gitPratikzSingh/LeetCode-Solutions#string)
-* [Linked List](https://github.com/gitPratikzSingh/LeetCode-Solutions#linked-list)
-* [Stack](https://github.com/gitPratikzSingh/LeetCode-Solutions#stack)
-* [Queue](https://github.com/gitPratikzSingh/LeetCode-Solutions#queue)
-* [Heap](https://github.com/gitPratikzSingh/LeetCode-Solutions#heap)
-* [Tree](https://github.com/gitPratikzSingh/LeetCode-Solutions#tree)
-* [Hash Table](https://github.com/gitPratikzSingh/LeetCode-Solutions#hash-table)
-* [Math](https://github.com/gitPratikzSingh/LeetCode-Solutions#math)
-* [Two Pointers](https://github.com/gitPratikzSingh/LeetCode-Solutions#two-pointers)
-* [Sort](https://github.com/gitPratikzSingh/LeetCode-Solutions#sort)
-* [Recursion](https://github.com/gitPratikzSingh/LeetCode-Solutions#recursion)
-* [Binary Search](https://github.com/gitPratikzSingh/LeetCode-Solutions#binary-search)
-* [Binary Search Tree](https://github.com/gitPratikzSingh/LeetCode-Solutions#binary-search-tree)
-* [Breadth-First Search](https://github.com/gitPratikzSingh/LeetCode-Solutions#breadth-first-search)
-* [Depth-First Search](https://github.com/gitPratikzSingh/LeetCode-Solutions#depth-first-search)
-* [Backtracking](https://github.com/gitPratikzSingh/LeetCode-Solutions#backtracking)
-* [Dynamic Programming](https://github.com/gitPratikzSingh/LeetCode-Solutions#dynamic-programming)
-* [Greedy](https://github.com/gitPratikzSingh/LeetCode-Solutions#greedy)
-* [Graph](https://github.com/gitPratikzSingh/LeetCode-Solutions#graph)
-* [Geometry](https://github.com/gitPratikzSingh/LeetCode-Solutions#geometry)
-* [Design](https://github.com/gitPratikzSingh/LeetCode-Solutions#design)
+* [Bit Manipulation](https://github.com/gitPratikSingh/LeetCode-Solutions#bit-manipulation)
+* [Array](https://github.com/gitPratikSingh/LeetCode-Solutions#array)
+* [String](https://github.com/gitPratikSingh/LeetCode-Solutions#string)
+* [Linked List](https://github.com/gitPratikSingh/LeetCode-Solutions#linked-list)
+* [Stack](https://github.com/gitPratikSingh/LeetCode-Solutions#stack)
+* [Queue](https://github.com/gitPratikSingh/LeetCode-Solutions#queue)
+* [Heap](https://github.com/gitPratikSingh/LeetCode-Solutions#heap)
+* [Tree](https://github.com/gitPratikSingh/LeetCode-Solutions#tree)
+* [Hash Table](https://github.com/gitPratikSingh/LeetCode-Solutions#hash-table)
+* [Math](https://github.com/gitPratikSingh/LeetCode-Solutions#math)
+* [Two Pointers](https://github.com/gitPratikSingh/LeetCode-Solutions#two-pointers)
+* [Sort](https://github.com/gitPratikSingh/LeetCode-Solutions#sort)
+* [Recursion](https://github.com/gitPratikSingh/LeetCode-Solutions#recursion)
+* [Binary Search](https://github.com/gitPratikSingh/LeetCode-Solutions#binary-search)
+* [Binary Search Tree](https://github.com/gitPratikSingh/LeetCode-Solutions#binary-search-tree)
+* [Breadth-First Search](https://github.com/gitPratikSingh/LeetCode-Solutions#breadth-first-search)
+* [Depth-First Search](https://github.com/gitPratikSingh/LeetCode-Solutions#depth-first-search)
+* [Backtracking](https://github.com/gitPratikSingh/LeetCode-Solutions#backtracking)
+* [Dynamic Programming](https://github.com/gitPratikSingh/LeetCode-Solutions#dynamic-programming)
+* [Greedy](https://github.com/gitPratikSingh/LeetCode-Solutions#greedy)
+* [Graph](https://github.com/gitPratikSingh/LeetCode-Solutions#graph)
+* [Geometry](https://github.com/gitPratikSingh/LeetCode-Solutions#geometry)
+* [Design](https://github.com/gitPratikSingh/LeetCode-Solutions#design)
 
 
 ## Database
 
-* [SQL](https://github.com/gitPratikzSingh/LeetCode-Solutions#sql)
+* [SQL](https://github.com/gitPratikSingh/LeetCode-Solutions#sql)
 
 
 ## Shell
 
-* [Shell Script](https://github.com/gitPratikzSingh/LeetCode-Solutions#shell-script)
+* [Shell Script](https://github.com/gitPratikSingh/LeetCode-Solutions#shell-script)
 
 ## Bit Manipulation
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
