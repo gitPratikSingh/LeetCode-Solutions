@@ -73,7 +73,7 @@ For more questions and solutions, you can see my [LeetCode-Solutions](https://gi
 ## Array
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
-015 | [3 Sum](https://leetcode.com/problems/3sum/)         | [Java](./Java/3sum.java) [Python](./Python/3sum.py)       | _O(n^2)_        | _O(1)_          | Medium         || Two Pointers
+015 | [3 Sum](https://leetcode.com/problems/3sum/)         | [Java](./Java/3sum.java) [Python](./Python/3sum.py) [Python](./Scala/3sum.scala)       | _O(n^2)_        | _O(1)_          | Medium         || Two Pointers
 016 | [3 Sum Closest](https://leetcode.com/problems/3sum-closest/) | [Java](./Java/3sum-closest.java) [Python](./Python/3sum-closest.py) | _O(n^2)_       | _O(1)_          | Medium         || Two Pointers
 018| [4 Sum](https://leetcode.com/problems/4sum/)         | [Java](./Java/4sum.java) [Python](./Python/4sum.py)        | _O(n^3)_    | _O(1)_    | Medium         || Two Pointers
 026 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)| [Java](./Java/remove-duplicates-from-sorted-array.java) [Python](./Python/remove-duplicates-from-sorted-array.py) | _O(n)_       | _O(1)_         | Easy           || Two Pointers
